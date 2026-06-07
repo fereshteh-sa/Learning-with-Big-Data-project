@@ -1,4 +1,4 @@
-# Learning-with-Big-Data-project
+# Discovery and Learning with Big Data project
 Project Summary
 
 This project demonstrates the application of machine learning across multiple business and analytical scenarios. It consists of six major parts covering AI strategy development, data preprocessing, supervised learning, unsupervised learning, and model comparison.
